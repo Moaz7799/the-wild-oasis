@@ -15,7 +15,6 @@ This application provides a clean, responsive, and feature-rich interface for ma
 - **User Authentication**: Secure login and user account management.
 - **Settings Panel**: Configure app-wide settings.
 - **Dark Mode**: Seamless light/dark theme toggle with context API.
-- **Responsive Design**: Fully optimized for desktop and mobile.
 - **Search, Filter & Pagination**: Quickly find and organize data.
 - **Notifications**: Real-time feedback with toast notifications.
 - **Error Boundaries**: Friendly error handling for a robust experience.
